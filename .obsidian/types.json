@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date": "date",
+    "minute": "number",
+    "duree": "number",
+    "actuel": "number",
+    "cible": "number",
+    "atteint": "checkbox",
+    "debut": "date",
+    "fin": "date",
+    "reussie": "checkbox",
+    "objectif": "checkbox",
+    "niveau": "number"
+  }
+}
