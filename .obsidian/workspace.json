@@ -45,8 +45,8 @@
               "state": {
                 "file": "Excalidraw/Ideation.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Ideation"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
         ]
@@ -202,8 +202,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -223,8 +223,7 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "f93cccbb5367b0b2",
