@@ -49,8 +49,7 @@
               "title": "Ideation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tableau de bord.md",
+                "file": "Excalidraw/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenue.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -190,7 +188,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,11 +202,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,11 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc9bd5f1b4cdc0ad",
+  "active": "f93cccbb5367b0b2",
   "lastOpenFiles": [
     "Tableau de bord.md",
-    "Templater.md",
     "Excalidraw/Ideation.md",
+    "Templater.md",
     "competence/Coups-franc.md",
     "competence/Defense.md",
     "competence/Ligne du hors-jeux.md",
